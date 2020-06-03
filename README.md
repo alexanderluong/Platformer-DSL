@@ -43,7 +43,7 @@ The project was built using Python3 and the [Arcade library](https://arcade.acad
             STRING ::= [A-Za-z0-9]+
 
 ## Example DSL
-![DSL Preview](/images/carbon.png)
+![DSL Preview](/images/code.png)
 
 ## Game Preview
 ![Game Preview](/images/preview.png)
